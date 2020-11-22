@@ -9,7 +9,8 @@ git clone https://github.com/frzvct/profilecard_withcms/
 ```bash
 database/profile_card.sql
 ```
-#### Login
+#### Login 
+ : 1
 ```bash
 localhost/login.php  or  localhost/jinx.php (for display login button in index)
 ```
