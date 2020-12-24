@@ -1,14 +1,7 @@
 ## Profile Card With CMS
 
 
-### Clone
-```bash
-git clone https://github.com/frzvct/profilecard_withcms/
-```
-#### Database
-```bash
-database/profile_card.sql
-```
+.
 #### Login 
 Kode : 1
 ```bash
